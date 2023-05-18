@@ -10,10 +10,6 @@ public class Ejercicio3 {
         suma = num1 + num2;
         num1++;
         
-        System.out.println("La suma de ambos números es de: " +suma+ " y el incremento del número 1 es: " + num1);
-        
-        
-        
-    }
-    
+        System.out.println("La suma de ambos números es de: " +suma+ " y el incremento del número 1 es: " + num1)     
+    }    
 }
